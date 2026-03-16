@@ -1,0 +1,40 @@
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# PyTorch checkpoints and saved models
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+saved_models/
+runs/
+
+# Data
+data/
+datasets/
+*.csv
+*.json
+*.h5
+*.hdf5
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
