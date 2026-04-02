@@ -106,7 +106,7 @@ activation_functions → optimizers → regularization
         ↓
 06_projects/ (apply everything)
 ```
-
+....
 ---
 
 ## Every Notebook Structure
