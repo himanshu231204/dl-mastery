@@ -91,7 +91,7 @@ dl-mastery/
 
 ---
 
-## Learning Path
+## Learning Path.
 
 ```
 00_math/ (all 4 notebooks)
